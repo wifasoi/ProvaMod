@@ -6,7 +6,7 @@ import cpw.mods.fml.common.Mod.EventHandler;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
 import net.minecraft.init.Blocks;
 
-@Mod(modid = Reference.MOD_ID, version = Reference.VERSION)
+@Mod(modid = Reference.MOD_ID,name=Reference.MOD_NAME, version = Reference.VERSION)
 public class ProvaMod {
 
     @EventHandler
