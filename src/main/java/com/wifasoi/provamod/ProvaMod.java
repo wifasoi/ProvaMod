@@ -11,13 +11,12 @@ public class ProvaMod {
 
     @EventHandler
     public void preInit(FMLInitializationEvent event) {
-
+        //TODO: creare qualcosa
     }
 
     @EventHandler
     public void init(FMLInitializationEvent event) {
-        // some example code
-        System.out.println("DIRT BLOCK >> " + Blocks.dirt.getUnlocalizedName());
+
     }
 
     @EventHandler
